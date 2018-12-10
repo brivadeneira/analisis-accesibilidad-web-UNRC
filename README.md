@@ -5,8 +5,8 @@ Se recrea el análisis propuesto en [Accesibilidad de los Sitios Web de las Univ
 ## Cómo usar
 
 ```
-git clone https://github.com/brivadeneira/analisis-accesibilidad-web-universidades-argentinas
-cd analisis-accesibilidad-web-universidades-argentinas
+git clone https://github.com/brivadeneira/analisis-accesibilidad-web-UNRC
+
 pip -r install requirements.txt
 ```
 
